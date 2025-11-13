@@ -28,7 +28,7 @@ A comprehensive data processing pipeline that automatically downloads, cleans, a
 ```bash
 # 1. Clone and setup
 git clone https://github.com/Mystiroda/automated-data-pipeline.git
-cd automated-Data-Pipeline
+cd automated-data-pipeline
 pip install -r requirements.txt
 
 # 2. Run the pipeline (uses Titanic dataset by default)
